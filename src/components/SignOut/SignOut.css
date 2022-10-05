@@ -1,0 +1,14 @@
+.sign-out{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 50px;
+    background-color: #fafafa;
+    border-bottom: 1px solid lightgray;
+}
+.sign-btn{
+    padding: 20px ;
+    font-size: 15px ;
+    border-radius: 0;
+    font-weight: 600;
+}

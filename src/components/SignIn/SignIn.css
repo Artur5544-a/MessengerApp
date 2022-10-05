@@ -1,0 +1,12 @@
+.sign-in{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.signin-btn{
+    padding: 30px;
+    font-size: 20px ;
+    border-radius: 0;
+    font-weight: 600;
+}
