@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MessengerApp/static/css/main.4d7194b3.chunk.css",
+    "main.js": "/MessengerApp/static/js/main.73315535.chunk.js",
+    "main.js.map": "/MessengerApp/static/js/main.73315535.chunk.js.map",
+    "runtime-main.js": "/MessengerApp/static/js/runtime-main.53a9fbd7.js",
+    "runtime-main.js.map": "/MessengerApp/static/js/runtime-main.53a9fbd7.js.map",
+    "static/js/2.6fa18616.chunk.js": "/MessengerApp/static/js/2.6fa18616.chunk.js",
+    "static/js/2.6fa18616.chunk.js.map": "/MessengerApp/static/js/2.6fa18616.chunk.js.map",
+    "index.html": "/MessengerApp/index.html",
+    "static/css/main.4d7194b3.chunk.css.map": "/MessengerApp/static/css/main.4d7194b3.chunk.css.map",
+    "static/js/2.6fa18616.chunk.js.LICENSE.txt": "/MessengerApp/static/js/2.6fa18616.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53a9fbd7.js",
+    "static/js/2.6fa18616.chunk.js",
+    "static/css/main.4d7194b3.chunk.css",
+    "static/js/main.73315535.chunk.js"
+  ]
+}
